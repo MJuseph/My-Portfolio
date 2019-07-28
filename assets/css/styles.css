@@ -185,6 +185,10 @@ form,article,button{
 }
 button{
   cursor: pointer;
+  
+}
+img:hover {
+  transform: scale(1.2);
 }
 
 /* END CONTACT FORM PAGE */
