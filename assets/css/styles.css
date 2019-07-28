@@ -190,5 +190,8 @@ button{
 img:hover {
   transform: scale(1.2);
 }
+button:hover{
+  transform: scale(1.2);
+}
 
 /* END CONTACT FORM PAGE */
